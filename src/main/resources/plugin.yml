@@ -1,0 +1,6 @@
+name: ChestFiller
+main: net.spideynn.bukkit.chestfiller.Main
+version: 0.1-SNAPSHOT
+commands:
+  chestfiller:
+    description: Derp
